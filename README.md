@@ -8,7 +8,7 @@ This right here should be the first place I go to!
 - [What is Big Ten?](https://btaa.org/resources-for/students/gateway-to-graduate-education) - UChicago and Maryland are on this list. Will this be helpful?
 
 # Choosing supervisors
-- [How to choose](https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33)
+- [Choosing a supervisor](https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33)
 
 # CV 
 - [How to write CV](https://uk.indeed.com/career-advice/cvs-cover-letters/cv-for-graduate-school)
