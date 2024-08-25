@@ -1,4 +1,4 @@
-Link repository for PhD applications **advice**. Other links are to be kept on the bookmarks bar directly.
+This repository for PhD applications **advice** only. Other links are to be kept on the bookmarks bar directly.
 
 # General
 - [The ultimate advice link repository](https://github.com/shaily99/advice) - This is by shaily99 who made a much nicer compilation than what I can do here
