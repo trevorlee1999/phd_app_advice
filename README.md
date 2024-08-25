@@ -1,7 +1,7 @@
-This repository for PhD applications **advice** only. Other links are to be kept on the bookmarks bar directly.
+This repository is for PhD applications **advice** only. Other links are to be kept on the bookmarks bar directly.
 
 # General
-- [The ultimate advice link repository](https://github.com/shaily99/advice) - This is by shaily99 who made a much nicer compilation than what I can do here
+- [The ultimate advice link repository](https://github.com/shaily99/advice) - This is by shaily99, who made a much nicer compilation than what I can do here
 This right here should be the first place I go to!
 
 - [Choosing cities](https://www.reddit.com/r/GradSchool/comments/aq7igm/phd_students_how_much_did_you_factor_in_the_city/)
