@@ -1,8 +1,8 @@
 This repository is for PhD applications advice
 
 # General
-- [The ultimate advice link repository](https://github.com/shaily99/advice) - This is by shaily99, who made a much nicer compilation than what I can do here
-This right here should be the first place I go to!
+- [The ultimate advice link repository](https://github.com/shaily99/advice) - This is by shaily99, who made a much nicer compilation than what I can do here.
+This should be the first place I go to!
 
 # Choosing supervisors
 - [Choosing a supervisor](https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33)
